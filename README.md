@@ -1,1 +1,1 @@
-# VsCode-Thems
+# VsCode-Themes
